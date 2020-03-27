@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
         <p>柴山が追加した行</p>
+        <p>寺尾が追加</p>
       </header>
     </div>
   );
